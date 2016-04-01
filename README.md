@@ -1,2 +1,5 @@
 # Non-use-license-agreement
-licensed under itself
+
+You can't use this software.
+You can't distribute this software.
+You can't reverse engineer this software.
